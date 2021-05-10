@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/ece650-a2.cpp
+iostream
+-
+sstream
+-
+vector
+-
+fstream
+-
+string.h
+-
+

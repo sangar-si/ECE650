@@ -1,0 +1,4 @@
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/run/bin/ece650-a1.py
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/run/bin/rgen
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/run/bin/ece650-a2
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/run/bin/ece650-a3

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/ece650-a3.cpp
+iostream
+-
+unistd.h
+-
+vector
+-
+stdio.h
+-
+signal.h
+-
+sys/types.h
+-
+pthread.h
+-
+sys/wait.h
+-
+string.h
+-
+

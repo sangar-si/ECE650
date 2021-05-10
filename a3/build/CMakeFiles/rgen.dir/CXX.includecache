@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/rgen.cpp
+iostream
+-
+sstream
+-
+vector
+-
+fstream
+-
+string.h
+-
+stdlib.h
+-
+random
+-
+unistd.h
+-
+

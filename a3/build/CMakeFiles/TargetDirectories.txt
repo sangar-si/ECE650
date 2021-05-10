@@ -1,0 +1,10 @@
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/CMakeFiles/install/strip.dir
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/CMakeFiles/install/local.dir
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/CMakeFiles/list_install_components.dir
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/CMakeFiles/install.dir
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/CMakeFiles/ece650-a3.dir
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/CMakeFiles/ece650-a2.dir
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/CMakeFiles/rgen.dir
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/CMakeFiles/tests.dir
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/CMakeFiles/edit_cache.dir
+/home/s2sivash/Assignments/s2sivash/s2sivash/a3/build/CMakeFiles/rebuild_cache.dir
